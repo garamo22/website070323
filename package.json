@@ -1,0 +1,12 @@
+{
+    "name": "meine-webseite",
+    "version": "1.0.0",
+    "description": "Meine Webseite",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
+  
